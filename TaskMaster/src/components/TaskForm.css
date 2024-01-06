@@ -1,0 +1,25 @@
+#root{
+    
+    background-color: #B4D4FF;
+    font-family: 'DM Sans', sans-serif;
+    height: 100vh;
+}
+
+.mycontainer{
+    width: 80%;
+    margin: auto;
+   padding-top: 50px;
+
+}
+.take-note{
+    height: 300px;
+    background-color: #EEF5FF;
+    border: 2px solid #11235A;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+ 
+.form-control{
+    width: 60%!important;
+    
+}
